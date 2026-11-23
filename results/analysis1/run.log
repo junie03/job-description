@@ -1,0 +1,58 @@
+분석 대상(풀스택 경계 제외, 유사 공고 그룹당 1건): 백엔드/서버개발 78건, 프론트엔드 40건, 인프라 69건, 데이터엔지니어 51건 / 합계 238건
+출처: {'saramin': 127, 'jumpit': 111}
+
+[1] 직군별 기술 언급 공고 비율 상위 10
+  백엔드/서버개발: AWS 50%, Java 49%, RDBMS 46%, REST API 44%, Spring Boot 38%, Git 38%, SQL 35%, 모니터링 33%, AI 32%, Spring 32%
+  프론트엔드: React 78%, HTML 60%, CSS 60%, TypeScript 58%, Git 48%, JavaScript 48%, REST API 45%, Next.js 45%, 반응형 웹 40%, 웹 성능 최적화 35%
+  인프라: 네트워크 67%, 보안 54%, 모니터링 49%, AWS 45%, Linux 39%, Kubernetes 38%, Python 33%, CI/CD 33%, 스토리지 30%, Azure 26%
+  데이터엔지니어: ETL/ELT 78%, Python 59%, SQL 53%, Data Warehouse 39%, Spark 39%, AI 39%, 데이터 품질 37%, AWS 35%, LLM 35%, 모니터링 35%
+  4개 직군 모두 15% 이상인 공통 기술: AI
+
+[2] 자격요건(필수) vs 우대사항(선택)
+  백엔드/서버개발 자격요건 상위: RDBMS(38%), Java(36%), Git(32%), Spring Boot(31%), REST API(28%), AWS(23%)
+  백엔드/서버개발 주로 우대사항에 나옴: CI/CD(22%), AI(17%), LLM(17%), Kubernetes(14%), Redis(14%), 단위 테스트(12%)
+  프론트엔드 자격요건 상위: React(65%), HTML(55%), CSS(55%), JavaScript(40%), TypeScript(40%), Git(38%)
+  프론트엔드 주로 우대사항에 나옴: 웹 성능 최적화(20%), AI(12%), React Query(12%), AI 코딩 도구(12%), React Native(10%), LLM(10%)
+  인프라 자격요건 상위: 네트워크(46%), Linux(28%), AWS(23%), Python(19%), Kubernetes(19%), 보안(19%)
+  인프라 주로 우대사항에 나옴: 보안(29%), 모니터링(22%), AI(13%), 네트워크 자격증(12%), Grafana(10%), 백업·DR(10%)
+  데이터엔지니어 자격요건 상위: Python(49%), SQL(45%), ETL/ELT(41%), Spark(20%), Data Warehouse(18%), RDBMS(16%)
+  데이터엔지니어 주로 우대사항에 나옴: AI(24%), LLM(24%), Kafka(20%), AWS(18%), 데이터 품질(16%), RAG(14%)
+
+[3] 직군 평균 TF-IDF 상위 12
+  백엔드/서버개발: 서비스, 백엔드, Java, 설계, 시스템, 서버, api, Spring Boot, Spring, 환경, 연동, AWS
+  프론트엔드: React, 프론트엔드, ui, CSS, HTML, 화면, 컴포넌트, TypeScript, 서비스, 사용자, Next.js, 연동
+  인프라: 네트워크, 인프라, 구축, 보안, 관리, it, 클라우드, 시스템, 스토리지, 기술, 서버, 환경
+  데이터엔지니어: 데이터, ETL/ELT, 플랫폼, 구축, Data Warehouse, 처리, 설계, 수집, 분석, 파이프라인, Spark, SQL
+
+[4] 가중 log-odds z 상위 (z > 1.96 유의)
+  백엔드/서버개발 기술: Spring Boot(3.7), Spring(3.2), Java(2.9), RDBMS(2.8), JPA(2.5), PostgreSQL(2.3), MyBatis(2.1), REST API(2.1)
+  백엔드/서버개발 단어: framework(2.6), 트랜잭션(2.3), 형상(2.1), 언어(1.9), api(1.9), 동기(1.9), 로직(1.9), 트래픽(1.7), 회원(1.7), 동시(1.5)
+  프론트엔드 기술: React(4.7), CSS(4.6), HTML(4.5), TypeScript(4.0), 반응형 웹(3.9), Next.js(3.7), JavaScript(3.5), 웹 성능 최적화(3.5)
+  프론트엔드 단어: ui(4.0), ux(3.5), 컴포넌트(3.5), 화면(2.9), 디자인(2.8), 모바일(2.7), 사용자(2.6), 라이브러리(2.4), 렌더링(2.3), 완성도(2.1)
+  인프라 기술: 네트워크(4.3), 가상화(3.2), 스토리지(3.1), 방화벽(3.0), 보안(2.8), IaC(2.8), Shell Script(2.7), Linux(2.6)
+  인프라 단어: 장비(3.3), 자격증(2.8), 점검(2.8), it(2.7), idc(2.6), 계정(2.4), 센터(2.3), 클러스터(2.2), 클라우드(2.2), 장애(2.2)
+  데이터엔지니어 기술: ETL/ELT(5.0), Data Warehouse(3.7), Spark(3.6), 데이터 품질(3.5), 데이터 거버넌스(3.0), Airflow(2.8), Data Mart(2.7), Databricks(2.7)
+  데이터엔지니어 단어: 수집(3.2), 가공(3.0), 적재(3.0), data(2.5), 정제(2.5), 데이터(2.4), 정형(2.4), 메타(2.4), 추출(2.3), 테이블(2.2)
+
+[5] 공출현 네트워크: 기술 107개, 연결 937개 (동시출현 ≥ 5, NPMI ≥ 0.1)
+  NPMI 상위 쌍: CSS+HTML(0.97), Grafana+Prometheus(0.96), IaC+Terraform(0.86), Confluence+Jira(0.85), AWS EC2+AWS RDS(0.81), VMware+가상화(0.79), CSS+반응형 웹(0.79), HTML+JavaScript(0.77), HTML+반응형 웹(0.76), AWS EC2+CloudWatch(0.76)
+  묶음1 [인프라] AWS, 모니터링, 보안, 네트워크, Kubernetes, CI/CD, Docker, Linux, GCP, Azure, Terraform, 스토리지 …
+  묶음2 [데이터엔지니어] Python, AI, SQL, ETL/ELT, LLM, AI 코딩 도구, Kafka, AI Agent, Airflow, Spark, Data Warehouse, 데이터 품질 …
+  묶음3 [백엔드/서버개발] REST API, Git, Java, RDBMS, 코드 리뷰, Spring Boot, PostgreSQL, DB 설계, Spring, MySQL, Oracle, Jira …
+  묶음4 [프론트엔드] React, TypeScript, HTML, JavaScript, CSS, Next.js, 반응형 웹, 웹 성능 최적화, Vue.js, React Query, React Native, 웹 표준·접근성
+  묶음5 [백엔드/서버개발] AWS S3, AWS EC2, AWS RDS, CloudWatch
+
+[6] 공고 TF-IDF 군집화 (k=4로 직군 수와 맞춤). 실루엣(cosine) k=3~8: 3:0.052, 4:0.051, 5:0.046, 6:0.046, 7:0.045, 8:0.047
+  직군과의 일치도 ARI: K-means 0.70, Ward 0.50
+  K-means 군집0 (44건, 데이터엔지니어 100%): 데이터, ETL/ELT, Data Warehouse, 구축, 설계, 플랫폼
+  K-means 군집1 (68건, 인프라 90%): 네트워크, 인프라, 구축, 관리, 서버, 보안
+  K-means 군집2 (42건, 프론트엔드 90%): React, 프론트엔드, ui, CSS, HTML, 화면
+  K-means 군집3 (84건, 백엔드/서버개발 81%): 서비스, 백엔드, 설계, 시스템, Java, 기술
+  Ward 군집0 (120건, 백엔드/서버개발 63%): 서비스, 설계, 시스템, 백엔드, Java, 환경
+  Ward 군집1 (48건, 인프라 96%): 네트워크, 인프라, it, 스토리지, 구축, 서버
+  Ward 군집2 (41건, 데이터엔지니어 100%): 데이터, ETL/ELT, Data Warehouse, 처리, 파이프라인, 구축
+  Ward 군집3 (29건, 프론트엔드 100%): React, 프론트엔드, ui, CSS, HTML, 컴포넌트
+
+[7] KWIC: 직군별 log-odds 상위 기술·단어 5개씩, 원문 맥락 최대 3건 → 7_kwic.csv (120줄)
+
+저장 위치: results\analysis1

@@ -1,0 +1,6 @@
+﻿묶음,주 직군,기술 수,구성 기술(빈도순)
+1,인프라,36,"AWS, 모니터링, 보안, 네트워크, Kubernetes, CI/CD, Docker, Linux, GCP, Azure, Terraform, 스토리지, Redis, IaC, Shell Script, MSA, 온프레미스, Grafana, DevOps, 가상화, 백업·DR, Prometheus, AWS EKS, Windows, ArgoCD, 컴퓨터 네트워크, 방화벽, 정보처리기사, VMware, GitHub Actions, Ansible, 네트워크 자격증, Windows Server, GitOps, MongoDB, SRE"
+2,데이터엔지니어,31,"Python, AI, SQL, ETL/ELT, LLM, AI 코딩 도구, Kafka, AI Agent, Airflow, Spark, Data Warehouse, 데이터 품질, RAG, Data Lake, Django, Hive, FastAPI, Iceberg, 데이터 거버넌스, Elasticsearch, 머신러닝, BigQuery, MLOps, Databricks, Vector DB, Data Mart, AWS ECS, BI, Hadoop, Snowflake, 생성형 AI"
+3,백엔드/서버개발,24,"REST API, Git, Java, RDBMS, 코드 리뷰, Spring Boot, PostgreSQL, DB 설계, Spring, MySQL, Oracle, Jira, 쿼리 튜닝, GitHub, 단위 테스트, Node.js, NoSQL, JPA, Confluence, MSSQL, Kafka/MQ, MyBatis, Kotlin, Slack"
+4,프론트엔드,12,"React, TypeScript, HTML, JavaScript, CSS, Next.js, 반응형 웹, 웹 성능 최적화, Vue.js, React Query, React Native, 웹 표준·접근성"
+5,백엔드/서버개발,4,"AWS S3, AWS EC2, AWS RDS, CloudWatch"

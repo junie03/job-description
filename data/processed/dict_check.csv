@@ -1,0 +1,205 @@
+﻿jumpit_tag,count,matched
+AWS,62,AWS
+Java,48,Java
+Python,48,Python
+Git,32,Git
+React,30,React
+Linux,30,Linux
+REST API,29,REST API
+Kubernetes,27,Kubernetes
+Docker,27,Docker
+MySQL,26,MySQL
+TypeScript,26,TypeScript
+JavaScript,22,JavaScript
+Spring Boot,21,Spring Boot
+Node.js,18,Node.js
+AZURE,18,Azure
+SQL,16,SQL
+PostgreSQL,15,PostgreSQL
+Redis,15,Redis
+HTML5,15,HTML
+Spring,14,Spring
+GCP,13,GCP
+AI/인공지능,12,AI
+Kafka,12,Kafka
+Oracle,12,Oracle
+Vue.js,11,Vue.js
+Windows,11,Windows
+Kotlin,10,Kotlin
+Network,10,네트워크
+Jira,9,Jira
+Terraform,9,Terraform
+PHP,8,PHP
+CSS 3,8,CSS
+GitHub,8,GitHub
+Azure DevOps,8,"Azure, DevOps"
+React Native,8,React Native
+MariaDB,7,MariaDB
+Prometheus,7,Prometheus
+Spring Framework,7,Spring
+OpenStack,6,OpenStack
+jQuery,6,jQuery
+Grafana,6,Grafana
+Windows Server,6,Windows Server
+Jenkins,5,Jenkins
+NGINX,5,Nginx
+Django,5,Django
+MongoDB,5,MongoDB
+GraphQL,5,GraphQL
+NoSql,5,NoSQL
+C++,5,C++
+TCP/IP,5,"네트워크, 컴퓨터 네트워크"
+.NET,5,.NET
+Infra,5,
+Next.js,5,Next.js
+TailwindCSS,5,Tailwind CSS
+Ccnp,5,네트워크 자격증
+FastAPI,4,FastAPI
+DB,4,
+Elasticsearch,4,Elasticsearch
+JSP,4,JSP
+C#,4,C#
+Amazon EKS,4,AWS EKS
+Shell,4,Shell Script
+AWS CloudFormation,3,"AWS, CloudFormation"
+RDB,3,RDBMS
+MSSQL,3,MSSQL
+Flutter,3,Flutter
+Golang,3,Go
+Spring Security,3,"Spring Security, 보안"
+Spring Data JPA,3,JPA
+MQTT,3,MQTT
+Mybatis,3,MyBatis
+Ansible,3,Ansible
+vmware,3,VMware
+CentOS,3,Linux
+Uniform CSS,3,CSS
+WebRTC,3,WebRTC
+axios,3,Axios
+Azure Synapse,3,Azure
+Snowflake,2,Snowflake
+Dart,2,Dart
+NestJS,2,NestJS
+Celery,2,Celery
+QA,2,
+Go,2,Go
+Amazon EC2,2,AWS EC2
+Datadog,2,Datadog
+RabbitMQ,2,Kafka/MQ
+JUnit,2,JUnit
+Confluence,2,Confluence
+K8S,2,Kubernetes
+Spring Batch,2,Spring Batch
+Hibernate,2,JPA
+Docker Compose,2,Docker
+WebSocket,2,WebSocket
+Bootstrap,2,Bootstrap
+Angular 2,2,Angular
+Apache HTTP Server,2,"Apache HTTP, 컴퓨터 네트워크"
+CodeIgniter,2,
+Selenium,2,Selenium
+ExpressJS,2,Express
+Ubuntu,2,Linux
+Slack,2,Slack
+Swift,2,Swift
+AngularJS,2,Angular
+JSTL,2,
+Okta,2,
+OneSaas,2,
+GitHub Actions,2,GitHub Actions
+L2,2,네트워크
+L3,2,네트워크
+Ccna,2,네트워크 자격증
+VPN,2,네트워크
+Databricks,2,Databricks
+Scala,2,Scala
+PySpark,2,Spark
+Backendless,1,
+AWS Glue,1,"AWS, AWS Glue"
+OpenAPI,1,Swagger/OpenAPI
+Visual Studio,1,
+Svelte,1,Svelte
+GUI,1,
+L7,1,네트워크
+Amazon RDS,1,AWS RDS
+Amazon S3,1,AWS S3
+Bitbucket Pipelines,1,Bitbucket
+Bitbucket,1,Bitbucket
+jQuery UI,1,jQuery
+Netty,1,Netty
+Apache Flink,1,Flink
+OLAP,1,OLAP
+Laravel,1,Laravel
+QueryDSL,1,QueryDSL
+Spring Cloud,1,Spring Cloud
+HW,1,
+ethernet,1,네트워크
+GitHub Copilot,1,"AI 코딩 도구, GitHub"
+Rust,1,Rust
+SQLite,1,SQLite
+gRPC,1,gRPC
+Vite,1,Vite
+Metabase,1,Superset/Redash
+Google Cloud Platform,1,GCP
+Google Cloud Run,1,GCP
+pytest,1,pytest
+ES6,1,JavaScript
+MSA,1,MSA
+Apache Tomcat,1,"Apache HTTP, Tomcat"
+Argo,1,ArgoCD
+Microsoft IIS,1,
+Microsoft SharePoint,1,
+Microsoft SQL Server,1,MSSQL
+Microsoft Teams,1,
+WebGL,1,
+FLEX,1,
+Android OS,1,
+Create React Native App,1,React Native
+iOS,1,
+MVVM,1,
+vuex,1,Vuex/Pinia
+Amazon SQS,1,Kafka/MQ
+XML,1,
+Java 8,1,Java
+Angular CLI,1,Angular
+Electron,1,Electron
+Firebase,1,Firebase
+RxJS,1,RxJS
+Capacitor,1,
+Webpack,1,Webpack
+Notion,1,Notion
+.NET Core,1,.NET
+Google Sheets,1,
+PowerDNS,1,
+OpenSSH,1,
+Cisco,1,네트워크
+L4,1,네트워크
+VMware vSphere,1,VMware
+FW,1,
+Citrix Gateway,1,
+Hyper,1,
+Helm,1,Helm
+YAML,1,
+Loki,1,ELK
+Grafana Mimir,1,Grafana
+AppHarbor,1,
+Kong,1,API Gateway
+Amazon CloudWatch,1,CloudWatch
+Amazon VPC,1,
+Autocad,1,
+Azure Kubernetes Service,1,"Azure, Kubernetes"
+Microsoft Azure,1,Azure
+PowerShell,1,PowerShell
+Perl,1,Perl
+Ruby,1,Ruby
+MachineLearning,1,머신러닝
+BigData,1,
+Airflow,1,Airflow
+Spark,1,Spark
+Figma,1,Figma
+Hadoop,1,Hadoop
+Dw,1,Data Warehouse
+ERP,1,
+Tableau,1,Tableau
+Power BI,1,"BI, Power BI"
+Amazon Kinesis,1,Kinesis

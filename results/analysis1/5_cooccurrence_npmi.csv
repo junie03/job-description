@@ -1,0 +1,1234 @@
+﻿기술A,기술B,동시출현,NPMI
+CSS,HTML,25,0.966
+Grafana,Prometheus,18,0.959
+IaC,Terraform,21,0.862
+Confluence,Jira,10,0.852
+AWS EC2,AWS RDS,8,0.812
+VMware,가상화,11,0.794
+CSS,반응형 웹,15,0.792
+HTML,JavaScript,20,0.773
+HTML,반응형 웹,15,0.764
+AWS EC2,CloudWatch,6,0.757
+Iceberg,Spark,11,0.746
+Data Mart,데이터 거버넌스,7,0.746
+DevOps,SRE,8,0.745
+AWS RDS,AWS S3,10,0.736
+AWS EC2,AWS S3,10,0.736
+CSS,JavaScript,18,0.73
+RAG,Vector DB,8,0.73
+Data Lake,Spark,12,0.722
+Data Lake,Iceberg,8,0.695
+Databricks,Spark,9,0.695
+ArgoCD,GitHub Actions,8,0.695
+AWS RDS,CloudWatch,5,0.674
+HTML,React,22,0.663
+Jira,Slack,6,0.655
+Data Mart,Data Warehouse,8,0.65
+Next.js,TypeScript,16,0.649
+JavaScript,React,21,0.647
+Hive,온프레미스,9,0.644
+LLM,RAG,16,0.643
+Next.js,React Query,7,0.637
+IaC,SRE,7,0.637
+ArgoCD,Prometheus,9,0.632
+CSS,React,20,0.63
+ETL/ELT,Spark,20,0.625
+Prometheus,Terraform,13,0.624
+Next.js,웹 성능 최적화,10,0.623
+JPA,MyBatis,5,0.621
+TypeScript,웹 성능 최적화,12,0.619
+React,TypeScript,22,0.619
+가상화,스토리지,13,0.618
+MLOps,머신러닝,5,0.616
+Java,Spring,25,0.608
+Hadoop,Spark,7,0.604
+CSS,TypeScript,16,0.602
+CSS,웹 표준·접근성,7,0.601
+ArgoCD,Grafana,9,0.6
+JavaScript,반응형 웹,11,0.598
+MyBatis,Spring,8,0.596
+ArgoCD,GitOps,5,0.594
+Grafana,Terraform,13,0.588
+CSS,웹 성능 최적화,10,0.583
+AWS S3,CloudWatch,6,0.581
+HTML,웹 표준·접근성,7,0.579
+Data Warehouse,데이터 품질,11,0.579
+Next.js,React,17,0.578
+VMware,스토리지,9,0.577
+Airflow,ETL/ELT,19,0.575
+HTML,TypeScript,16,0.573
+GitOps,IaC,6,0.569
+SRE,Terraform,7,0.569
+HTML,Next.js,13,0.568
+JPA,Spring,9,0.566
+IaC,Prometheus,10,0.566
+Data Lake,데이터 거버넌스,6,0.563
+BigQuery,Data Warehouse,7,0.56
+HTML,웹 성능 최적화,10,0.559
+TypeScript,반응형 웹,11,0.552
+Next.js,반응형 웹,9,0.551
+CSS,Next.js,12,0.551
+ETL/ELT,Iceberg,12,0.55
+ETL/ELT,데이터 거버넌스,12,0.55
+반응형 웹,웹 성능 최적화,7,0.549
+Java,Spring Boot,25,0.549
+AI Agent,Vector DB,7,0.549
+Ansible,가상화,6,0.548
+Prometheus,SRE,5,0.547
+GitOps,Prometheus,5,0.547
+ETL/ELT,데이터 품질,17,0.543
+Data Warehouse,ETL/ELT,17,0.543
+Azure,GCP,18,0.542
+방화벽,컴퓨터 네트워크,6,0.541
+Data Lake,Databricks,5,0.536
+CSS,React Native,6,0.534
+MSSQL,Oracle,6,0.534
+React,Vue.js,10,0.533
+AI 코딩 도구,LLM,22,0.533
+Grafana,IaC,10,0.533
+Data Lake,Data Warehouse,8,0.53
+AWS EKS,GitHub Actions,6,0.529
+CI/CD,Grafana,18,0.527
+방화벽,정보처리기사,5,0.526
+Django,FastAPI,5,0.526
+Linux,Windows,14,0.525
+AI Agent,RAG,9,0.525
+JavaScript,React Native,6,0.523
+Ansible,Shell Script,6,0.521
+GitOps,Grafana,5,0.519
+Grafana,SRE,5,0.519
+Data Mart,ETL/ELT,10,0.519
+Data Warehouse,Spark,10,0.517
+Data Lake,ETL/ELT,13,0.516
+CI/CD,DevOps,17,0.513
+HTML,React Native,6,0.513
+GitHub Actions,Prometheus,6,0.513
+JavaScript,TypeScript,14,0.513
+GitHub Actions,Terraform,8,0.511
+CI/CD,Docker,33,0.511
+CSS,Vue.js,7,0.511
+Airflow,Iceberg,7,0.51
+AWS EKS,Terraform,10,0.508
+가상화,백업·DR,8,0.506
+AWS EKS,Redis,9,0.506
+Kubernetes,Terraform,22,0.506
+GitOps,Terraform,6,0.503
+React,반응형 웹,12,0.501
+CI/CD,Prometheus,16,0.499
+DevOps,IaC,9,0.499
+ArgoCD,Terraform,9,0.497
+LLM,Vector DB,9,0.497
+Airflow,Data Mart,6,0.496
+JavaScript,Next.js,11,0.495
+BigQuery,데이터 품질,6,0.495
+Next.js,웹 표준·접근성,5,0.495
+Kubernetes,Prometheus,16,0.492
+AI Agent,LLM,16,0.492
+Kafka,데이터 거버넌스,8,0.491
+Iceberg,Kafka,8,0.491
+Kafka,Spark,12,0.49
+HTML,Vue.js,7,0.489
+Airflow,Spark,10,0.488
+GitHub Actions,Grafana,6,0.485
+Kafka,Snowflake,6,0.485
+ETL/ELT,Snowflake,8,0.484
+Windows,가상화,7,0.482
+PostgreSQL,RDBMS,22,0.481
+AWS EKS,IaC,8,0.48
+React,웹 성능 최적화,11,0.479
+Data Lake,Kafka,9,0.476
+FastAPI,RAG,5,0.472
+데이터 거버넌스,데이터 품질,6,0.471
+Data Warehouse,데이터 거버넌스,6,0.471
+Databricks,ETL/ELT,9,0.47
+Spark,데이터 품질,9,0.468
+React,React Native,7,0.468
+AWS EKS,ArgoCD,6,0.468
+React,웹 표준·접근성,7,0.468
+JavaScript,웹 성능 최적화,8,0.467
+Linux,Shell Script,15,0.465
+Linux,가상화,14,0.465
+DB 설계,SQL,23,0.463
+방화벽,온프레미스,6,0.463
+Ansible,Grafana,5,0.462
+Kafka,Redis,12,0.461
+GitHub Actions,IaC,6,0.459
+Spark,데이터 거버넌스,6,0.459
+CI/CD,IaC,17,0.457
+Oracle,Spring,10,0.456
+CI/CD,Terraform,20,0.456
+Airflow,데이터 품질,9,0.455
+Linux,VMware,10,0.454
+Grafana,Kubernetes,16,0.453
+Java,MyBatis,9,0.453
+Airflow,Hadoop,5,0.453
+IaC,Kubernetes,17,0.451
+Shell Script,방화벽,6,0.45
+Data Warehouse,Databricks,5,0.449
+Data Mart,데이터 품질,5,0.449
+AI Agent,AI 코딩 도구,13,0.448
+Airflow,데이터 거버넌스,6,0.447
+네트워크,방화벽,13,0.446
+VMware,백업·DR,5,0.442
+ETL/ELT,Kafka,18,0.439
+Data Mart,Spark,5,0.437
+Hive,Spark,6,0.437
+SQL,쿼리 튜닝,13,0.436
+Windows,백업·DR,6,0.435
+GitHub Actions,Redis,6,0.435
+FastAPI,Redis,6,0.435
+MyBatis,Spring Boot,6,0.435
+Docker,쿼리 튜닝,12,0.434
+단위 테스트,코드 리뷰,9,0.433
+GitHub,Jira,5,0.432
+CI/CD,SRE,8,0.432
+Grafana,모니터링,20,0.43
+Spring,Spring Boot,13,0.426
+DevOps,Terraform,9,0.425
+Airflow,Hive,6,0.425
+Data Mart,Kafka,6,0.424
+Terraform,모니터링,25,0.423
+Data Warehouse,SQL,16,0.422
+NoSQL,RDBMS,10,0.422
+IaC,모니터링,21,0.42
+AWS EKS,Prometheus,6,0.419
+DevOps,Grafana,7,0.419
+Azure,VMware,7,0.416
+FastAPI,PostgreSQL,7,0.416
+React Native,TypeScript,5,0.414
+AWS,GCP,30,0.413
+Prometheus,모니터링,18,0.413
+Ansible,Linux,8,0.412
+Data Lake,데이터 품질,6,0.411
+AWS S3,쿼리 튜닝,6,0.411
+Git,REST API,31,0.411
+ArgoCD,Kubernetes,12,0.41
+AI 코딩 도구,RAG,9,0.41
+Docker,Kubernetes,29,0.41
+DB 설계,쿼리 튜닝,8,0.406
+Kafka/MQ,Spring Boot,6,0.406
+CI/CD,GitHub Actions,10,0.405
+Shell Script,가상화,7,0.405
+Shell Script,VMware,5,0.402
+Airflow,BigQuery,5,0.401
+Airflow,머신러닝,5,0.401
+MySQL,Spring Boot,12,0.4
+MSSQL,SQL,9,0.399
+DB 설계,데이터 품질,10,0.399
+Redis,Spring,10,0.399
+Kafka,머신러닝,6,0.398
+Elasticsearch,Kafka,6,0.398
+Java,Oracle,14,0.398
+ETL/ELT,Hadoop,7,0.395
+LLM,Snowflake,6,0.393
+Django,Python,13,0.393
+AWS,CI/CD,42,0.392
+FastAPI,LLM,8,0.392
+BigQuery,ETL/ELT,8,0.391
+AI 코딩 도구,FastAPI,7,0.391
+Airflow,Kafka,10,0.391
+AWS EKS,Grafana,6,0.39
+Elasticsearch,Redis,5,0.39
+SQL,데이터 품질,15,0.389
+DevOps,Prometheus,6,0.388
+RDBMS,Spring,17,0.387
+AWS EC2,CI/CD,9,0.386
+AWS RDS,CI/CD,9,0.386
+MLOps,스토리지,5,0.384
+Hadoop,Kafka,5,0.384
+MSSQL,RDBMS,8,0.383
+Git,React,23,0.382
+FastAPI,Python,12,0.382
+AI 코딩 도구,Vector DB,6,0.382
+AWS S3,Hive,5,0.381
+AI,RAG,14,0.38
+CI/CD,모니터링,38,0.379
+CI/CD,CloudWatch,7,0.378
+CI/CD,GitOps,7,0.378
+JPA,RDBMS,9,0.377
+AI 코딩 도구,생성형 AI,5,0.375
+GitHub,Grafana,5,0.375
+AWS EKS,CI/CD,12,0.374
+ArgoCD,Redis,6,0.374
+Kubernetes,SRE,7,0.372
+GitOps,Kubernetes,7,0.372
+BigQuery,GCP,6,0.372
+AWS,Terraform,25,0.372
+ArgoCD,DevOps,5,0.37
+SRE,보안,8,0.369
+네트워크,백업·DR,14,0.369
+IaC,방화벽,5,0.369
+Docker,모니터링,36,0.369
+DevOps,Kubernetes,13,0.367
+Azure,Windows Server,5,0.367
+AI Agent,FastAPI,5,0.367
+Linux,백업·DR,11,0.367
+Spring Boot,코드 리뷰,14,0.365
+JPA,Java,9,0.365
+Elasticsearch,LLM,7,0.364
+AI,AI 코딩 도구,24,0.363
+AWS,Azure,27,0.359
+Databricks,Kafka,5,0.357
+PostgreSQL,Redis,10,0.357
+Git,JavaScript,16,0.356
+FastAPI,Kubernetes,9,0.354
+AWS RDS,Docker,8,0.354
+PostgreSQL,쿼리 튜닝,7,0.353
+방화벽,보안,11,0.353
+Hive,Kafka,6,0.353
+Azure,백업·DR,8,0.352
+Airflow,Data Warehouse,7,0.351
+네트워크,보안,36,0.35
+Kubernetes,모니터링,37,0.35
+Data Mart,SQL,8,0.35
+Grafana,보안,15,0.349
+Git,반응형 웹,11,0.349
+네트워크,네트워크 자격증,8,0.348
+GCP,NoSQL,6,0.348
+Docker,Redis,14,0.347
+IaC,보안,16,0.346
+네트워크,스토리지,18,0.346
+ETL/ELT,Python,30,0.345
+AI 코딩 도구,AWS ECS,5,0.344
+Terraform,보안,19,0.342
+Git,HTML,16,0.342
+MySQL,쿼리 튜닝,6,0.342
+DB 설계,Data Mart,5,0.34
+PostgreSQL,Vector DB,5,0.34
+React,React Query,5,0.34
+Windows,온프레미스,5,0.34
+CI/CD,Shell Script,13,0.339
+CSS,Git,15,0.339
+AWS S3,CI/CD,13,0.339
+Git,Spring Boot,18,0.338
+Windows,네트워크,12,0.338
+Oracle,RDBMS,12,0.338
+ETL/ELT,머신러닝,7,0.338
+DB 설계,RDBMS,17,0.337
+RDBMS,Spring Boot,17,0.337
+ETL/ELT,LLM,19,0.336
+Azure,가상화,8,0.336
+Azure,DevOps,8,0.336
+Azure,Windows,7,0.335
+Linux,방화벽,8,0.335
+ArgoCD,CI/CD,10,0.334
+Java,RDBMS,25,0.333
+Elasticsearch,Kubernetes,8,0.333
+Shell Script,온프레미스,6,0.333
+AWS EC2,Kafka,5,0.332
+TypeScript,Vue.js,5,0.332
+ETL/ELT,SQL,24,0.332
+IaC,컴퓨터 네트워크,5,0.332
+ArgoCD,IaC,5,0.332
+Linux,Windows Server,6,0.331
+IaC,네트워크,15,0.331
+AWS ECS,코드 리뷰,5,0.33
+Git,Node.js,9,0.33
+AWS,AWS EKS,16,0.33
+Docker,JPA,8,0.329
+Shell Script,Windows,5,0.327
+REST API,Vue.js,8,0.327
+DevOps,GCP,8,0.327
+Kafka,데이터 품질,8,0.326
+Data Warehouse,Kafka,8,0.326
+Windows,스토리지,6,0.325
+Airflow,LLM,11,0.324
+Java,MySQL,15,0.324
+Python,Shell Script,16,0.322
+네트워크,컴퓨터 네트워크,11,0.321
+Airflow,Data Lake,5,0.321
+Prometheus,보안,13,0.319
+MySQL,Oracle,7,0.319
+AWS,IaC,19,0.318
+Airflow,Python,17,0.318
+GitOps,보안,7,0.317
+TypeScript,코드 리뷰,12,0.316
+가상화,네트워크,13,0.316
+AWS RDS,Spring Boot,5,0.315
+AWS RDS,PostgreSQL,5,0.315
+CI/CD,Kubernetes,26,0.315
+SRE,모니터링,8,0.314
+AI Agent,PostgreSQL,9,0.313
+웹 성능 최적화,코드 리뷰,7,0.312
+AWS EKS,Docker,10,0.312
+DevOps,Redis,6,0.31
+AWS,AWS RDS,11,0.309
+Terraform,온프레미스,7,0.309
+Kafka,LLM,13,0.309
+AWS,AWS EC2,11,0.309
+Git,코드 리뷰,19,0.309
+RDBMS,REST API,25,0.309
+AWS,Docker,36,0.309
+ETL/ELT,MLOps,6,0.308
+VMware,네트워크,9,0.308
+AWS,AWS S3,18,0.308
+GitHub Actions,Kubernetes,8,0.307
+AWS S3,IaC,6,0.307
+IaC,Shell Script,6,0.307
+LLM,머신러닝,6,0.307
+Linux,스토리지,13,0.307
+Terraform,방화벽,5,0.307
+Hive,Terraform,5,0.307
+Docker,PostgreSQL,16,0.307
+AI,LLM,25,0.307
+SQL,Snowflake,6,0.305
+DB 설계,PostgreSQL,11,0.305
+Airflow,RAG,5,0.304
+HTML,REST API,15,0.304
+Kafka/MQ,REST API,7,0.304
+AWS EC2,Docker,7,0.303
+MyBatis,RDBMS,6,0.303
+Kafka/MQ,코드 리뷰,5,0.302
+REST API,코드 리뷰,19,0.302
+JPA,REST API,8,0.302
+REST API,단위 테스트,9,0.301
+DevOps,모니터링,15,0.3
+CSS,REST API,14,0.3
+Docker,Grafana,11,0.3
+LLM,Python,26,0.299
+GCP,Shell Script,8,0.298
+CSS,코드 리뷰,10,0.298
+Git,Spring,15,0.298
+AI,AI Agent,16,0.298
+AWS ECS,LLM,5,0.297
+Shell Script,백업·DR,5,0.297
+REST API,TypeScript,16,0.297
+Spring Boot,쿼리 튜닝,6,0.296
+Linux,네트워크,25,0.296
+Kafka,RAG,6,0.296
+가상화,온프레미스,5,0.296
+AWS S3,Terraform,7,0.295
+GitHub,LLM,7,0.295
+AWS S3,Airflow,6,0.295
+Shell Script,모니터링,16,0.294
+Docker,Prometheus,10,0.294
+DB 설계,데이터 거버넌스,5,0.293
+백업·DR,스토리지,6,0.293
+JPA,Spring Boot,5,0.293
+Docker,Terraform,14,0.292
+AWS,모니터링,50,0.292
+AI 코딩 도구,Elasticsearch,5,0.292
+AI 코딩 도구,GitHub,6,0.291
+AI,Vector DB,8,0.291
+ETL/ELT,Hive,7,0.291
+Python,데이터 품질,15,0.291
+AWS,AWS ECS,9,0.29
+AWS EKS,Kubernetes,10,0.289
+AWS,Kubernetes,37,0.288
+GitHub,Terraform,5,0.287
+JavaScript,REST API,14,0.286
+Python,Snowflake,7,0.286
+GCP,데이터 거버넌스,5,0.285
+Java,SQL,25,0.285
+Kubernetes,LLM,20,0.285
+AWS S3,Docker,11,0.284
+GCP,Python,21,0.284
+Docker,Shell Script,11,0.284
+DevOps,MSA,5,0.283
+Git,MyBatis,6,0.283
+DevOps,Shell Script,5,0.283
+LLM,데이터 거버넌스,6,0.283
+AWS S3,Redis,6,0.283
+Iceberg,LLM,6,0.283
+Hive,Kubernetes,8,0.283
+Grafana,온프레미스,5,0.282
+ArgoCD,모니터링,12,0.282
+Shell Script,네트워크,13,0.281
+Git,Next.js,12,0.281
+ETL/ELT,RAG,8,0.28
+AWS,CloudWatch,8,0.28
+REST API,쿼리 튜닝,9,0.28
+Jira,PostgreSQL,6,0.279
+GitHub Actions,모니터링,10,0.279
+MyBatis,REST API,6,0.278
+Docker,GitHub Actions,7,0.278
+RDBMS,SQL,24,0.278
+Docker,FastAPI,7,0.278
+Node.js,REST API,8,0.278
+MySQL,PostgreSQL,9,0.277
+Data Lake,LLM,7,0.276
+Kubernetes,온프레미스,11,0.276
+Data Lake,SQL,9,0.275
+HTML,코드 리뷰,10,0.274
+Kafka/MQ,RDBMS,6,0.274
+AWS EKS,모니터링,13,0.274
+Git,TypeScript,15,0.273
+BI,SQL,6,0.273
+BI,ETL/ELT,5,0.273
+Terraform,네트워크,16,0.273
+CloudWatch,Docker,5,0.272
+MySQL,RDBMS,13,0.272
+Docker,GitOps,5,0.272
+Data Mart,Python,8,0.271
+Oracle,PostgreSQL,7,0.271
+Oracle,Spring Boot,7,0.271
+Python,Vector DB,8,0.271
+Grafana,Shell Script,5,0.27
+Terraform,컴퓨터 네트워크,5,0.27
+Grafana,MSA,5,0.27
+Data Lake,Python,11,0.27
+AWS,머신러닝,10,0.27
+AWS,Kafka,22,0.269
+AI Agent,코드 리뷰,9,0.269
+Redis,코드 리뷰,9,0.269
+Docker,IaC,11,0.269
+Ansible,네트워크,7,0.267
+DevOps,보안,12,0.266
+DB 설계,Spring Boot,10,0.266
+Kubernetes,RAG,9,0.266
+CI/CD,MSA,11,0.266
+PostgreSQL,Spring Boot,10,0.266
+AI 코딩 도구,코드 리뷰,12,0.265
+GCP,방화벽,5,0.264
+GitOps,모니터링,7,0.264
+RDBMS,쿼리 튜닝,8,0.263
+Docker,컴퓨터 네트워크,8,0.263
+MongoDB,보안,6,0.262
+Git,단위 테스트,8,0.262
+Hive,LLM,6,0.261
+Kubernetes,MSA,11,0.26
+IaC,온프레미스,5,0.258
+AWS,DevOps,15,0.258
+CI/CD,Redis,12,0.258
+AI Agent,Airflow,6,0.258
+AWS,Kafka/MQ,9,0.258
+DB 설계,Data Warehouse,7,0.257
+Azure,Shell Script,7,0.257
+Redis,Terraform,7,0.257
+AWS,Python,45,0.256
+JPA,코드 리뷰,5,0.255
+AWS,Hive,11,0.255
+React,코드 리뷰,13,0.254
+Kubernetes,MLOps,6,0.254
+AI 코딩 도구,반응형 웹,6,0.254
+Confluence,Git,6,0.254
+Ansible,Kubernetes,6,0.254
+Ansible,보안,7,0.254
+GitHub,PostgreSQL,5,0.253
+Kubernetes,Snowflake,5,0.253
+Kubernetes,Slack,5,0.253
+CI/CD,MySQL,13,0.252
+Kubernetes,Redis,12,0.252
+AWS S3,MySQL,6,0.251
+Linux,온프레미스,9,0.251
+보안,정보처리기사,8,0.25
+AI,Snowflake,6,0.25
+AI,생성형 AI,6,0.25
+Next.js,코드 리뷰,8,0.25
+Docker,Elasticsearch,6,0.249
+Data Warehouse,GCP,7,0.249
+SQL,데이터 거버넌스,7,0.248
+Ansible,모니터링,8,0.248
+AWS EKS,MySQL,5,0.247
+AWS,Prometheus,14,0.247
+ETL/ELT,Vector DB,5,0.246
+Kubernetes,스토리지,13,0.246
+Azure,Python,19,0.245
+Databricks,SQL,6,0.245
+모니터링,보안,37,0.245
+IaC,MSA,5,0.245
+Azure,IaC,7,0.244
+Docker,Jira,8,0.244
+JavaScript,코드 리뷰,9,0.244
+Python,머신러닝,8,0.243
+REST API,Spring Boot,15,0.243
+Python,Terraform,17,0.243
+Elasticsearch,Python,8,0.243
+Docker,Linux,19,0.243
+CI/CD,온프레미스,10,0.243
+DB 설계,REST API,15,0.243
+AWS ECS,Docker,5,0.242
+AWS ECS,RDBMS,5,0.242
+AWS,GitHub Actions,10,0.242
+AWS,NoSQL,10,0.242
+Docker,MyBatis,5,0.242
+MSA,Spring,6,0.241
+Shell Script,Terraform,6,0.241
+AI 코딩 도구,Redis,8,0.241
+AWS,온프레미스,15,0.24
+AWS,Grafana,15,0.24
+반응형 웹,코드 리뷰,6,0.239
+Docker,MySQL,12,0.238
+AI,데이터 거버넌스,8,0.237
+PostgreSQL,SQL,15,0.237
+GCP,IaC,7,0.236
+Hive,Python,9,0.236
+Node.js,코드 리뷰,5,0.235
+Azure,Data Lake,5,0.235
+Grafana,Redis,5,0.235
+Linux,모니터링,27,0.235
+SQL,Spark,11,0.234
+Azure,스토리지,8,0.233
+Python,SQL,30,0.233
+DB 설계,MySQL,8,0.233
+Java,Kotlin,5,0.232
+Java,PostgreSQL,14,0.232
+AWS,SRE,7,0.232
+AWS,GitOps,7,0.232
+Shell Script,보안,12,0.232
+Git,Java,22,0.231
+Windows Server,보안,6,0.23
+네트워크 자격증,보안,6,0.23
+Java,Redis,11,0.229
+AWS,Redis,17,0.229
+Grafana,네트워크,11,0.228
+Docker,RDBMS,20,0.228
+REST API,Spring,13,0.228
+Git,Vue.js,6,0.228
+Kubernetes,머신러닝,6,0.228
+Oracle,SQL,10,0.227
+AWS ECS,CI/CD,5,0.227
+Windows,모니터링,11,0.225
+FastAPI,RDBMS,6,0.225
+Prometheus,네트워크,10,0.224
+AWS RDS,REST API,6,0.224
+MySQL,Spring,7,0.224
+Azure,네트워크,16,0.224
+AWS EC2,REST API,6,0.224
+MLOps,Python,7,0.223
+DB 설계,ETL/ELT,12,0.222
+Git,Jira,8,0.222
+AWS S3,Kafka,6,0.222
+AI Agent,AWS S3,5,0.222
+IaC,Linux,9,0.222
+ETL/ELT,Elasticsearch,5,0.221
+모니터링,백업·DR,12,0.221
+Python,모니터링,39,0.22
+Redis,Spring Boot,7,0.22
+AWS EKS,Kafka,5,0.219
+SQL,머신러닝,6,0.219
+BigQuery,SQL,6,0.219
+DB 설계,RAG,5,0.218
+AWS ECS,REST API,5,0.218
+AI,AWS ECS,6,0.218
+Jira,Spring Boot,5,0.218
+LLM,PostgreSQL,11,0.217
+AWS,방화벽,10,0.217
+Python,데이터 거버넌스,8,0.217
+REST API,반응형 웹,8,0.217
+AI Agent,Kubernetes,11,0.217
+REST API,React,17,0.217
+Airflow,Terraform,6,0.216
+Azure,Linux,12,0.215
+Linux,Spring Boot,12,0.215
+ArgoCD,Docker,7,0.215
+Redis,모니터링,15,0.215
+AI,머신러닝,7,0.215
+RDBMS,Vector DB,5,0.214
+Kubernetes,가상화,9,0.214
+Docker,Kafka/MQ,5,0.214
+Confluence,Docker,5,0.214
+AWS,Confluence,8,0.214
+CI/CD,GCP,14,0.214
+Kubernetes,Linux,19,0.214
+PostgreSQL,REST API,14,0.213
+보안,온프레미스,11,0.213
+AI Agent,Python,14,0.213
+MyBatis,SQL,5,0.213
+LLM,Spark,8,0.213
+Python,Spark,13,0.212
+Python,RAG,10,0.212
+CloudWatch,모니터링,6,0.211
+MongoDB,모니터링,6,0.211
+Python,온프레미스,12,0.211
+Kafka,Kubernetes,13,0.21
+GCP,온프레미스,6,0.21
+백업·DR,보안,10,0.21
+AWS,ArgoCD,11,0.208
+Linux,Oracle,8,0.208
+Grafana,Linux,8,0.208
+SQL,Spring Boot,14,0.207
+Windows,보안,9,0.207
+CI/CD,보안,25,0.206
+Docker,MSA,9,0.206
+스토리지,온프레미스,5,0.205
+AWS S3,PostgreSQL,6,0.205
+Kubernetes,VMware,6,0.205
+Kafka,Prometheus,5,0.205
+MSA,Spring Boot,6,0.205
+Iceberg,Kubernetes,6,0.205
+RDBMS,Redis,10,0.204
+AWS EKS,PostgreSQL,5,0.203
+Docker,Hive,6,0.203
+Node.js,RDBMS,6,0.203
+Next.js,REST API,10,0.202
+AWS,데이터 거버넌스,9,0.202
+GitHub Actions,보안,7,0.202
+AWS,FastAPI,9,0.202
+AI Agent,ETL/ELT,9,0.202
+Django,LLM,5,0.202
+Vector DB,모니터링,7,0.201
+MySQL,SQL,12,0.201
+LLM,TypeScript,10,0.201
+Kotlin,Python,6,0.2
+Ansible,CI/CD,5,0.2
+Java,REST API,21,0.2
+NoSQL,REST API,6,0.2
+CI/CD,쿼리 튜닝,7,0.199
+AI,ETL/ELT,22,0.198
+RAG,RDBMS,7,0.197
+GCP,데이터 품질,6,0.196
+GitHub,React,5,0.195
+Confluence,Kubernetes,5,0.195
+Data Warehouse,Python,12,0.195
+FastAPI,모니터링,8,0.195
+RDBMS,코드 리뷰,14,0.194
+Git,쿼리 튜닝,7,0.194
+Kafka,Terraform,7,0.194
+AI 코딩 도구,Oracle,6,0.194
+LLM,온프레미스,7,0.194
+Azure,CI/CD,13,0.194
+Git,웹 성능 최적화,7,0.194
+GCP,Kafka,8,0.193
+PostgreSQL,Python,17,0.193
+DevOps,Docker,8,0.193
+Shell Script,스토리지,5,0.192
+Linux,컴퓨터 네트워크,6,0.192
+AWS EC2,RDBMS,5,0.19
+AWS RDS,RDBMS,5,0.19
+BigQuery,RDBMS,5,0.19
+AI,FastAPI,7,0.19
+Kubernetes,Python,27,0.189
+PostgreSQL,백업·DR,5,0.188
+DB 설계,Git,13,0.188
+CI/CD,방화벽,6,0.188
+CI/CD,Hive,6,0.188
+Azure,Kubernetes,13,0.188
+Docker,Java,19,0.188
+LLM,Redis,8,0.187
+AWS,Jira,11,0.187
+Linux,Terraform,10,0.187
+AI 코딩 도구,Git,14,0.187
+MLOps,SQL,5,0.186
+AWS,Elasticsearch,8,0.186
+Docker,네트워크,22,0.184
+ArgoCD,보안,8,0.184
+Windows Server,네트워크,5,0.184
+AI 코딩 도구,RDBMS,13,0.183
+LLM,Terraform,9,0.183
+Docker,단위 테스트,6,0.183
+Airflow,SQL,10,0.183
+Jira,코드 리뷰,5,0.181
+DB 설계,코드 리뷰,9,0.181
+Airflow,DB 설계,6,0.18
+LLM,데이터 품질,7,0.18
+Elasticsearch,Java,5,0.18
+AWS,Snowflake,6,0.18
+Hive,보안,7,0.18
+Azure,보안,15,0.179
+Spring,코드 리뷰,8,0.179
+AWS ECS,모니터링,6,0.179
+IaC,Python,12,0.179
+LLM,RDBMS,15,0.178
+Git,SQL,21,0.178
+GCP,스토리지,7,0.177
+Grafana,Kafka,5,0.177
+GCP,Kubernetes,13,0.177
+Kubernetes,보안,24,0.177
+Jira,Kubernetes,7,0.176
+Azure,Terraform,7,0.176
+AI 코딩 도구,TypeScript,8,0.175
+AI 코딩 도구,Kafka,8,0.175
+DevOps,Spring Boot,5,0.174
+CI/CD,코드 리뷰,14,0.174
+AWS RDS,모니터링,7,0.174
+Hive,Linux,5,0.173
+GitHub,Java,6,0.173
+AWS,Data Lake,10,0.172
+AWS S3,SQL,9,0.172
+Databricks,Python,6,0.171
+모니터링,방화벽,8,0.171
+Jira,REST API,7,0.171
+Hive,모니터링,8,0.171
+Ansible,Python,6,0.171
+CI/CD,Linux,17,0.17
+AWS RDS,Git,5,0.17
+AWS,Spring Boot,19,0.17
+Airflow,모니터링,13,0.17
+AWS EC2,Git,5,0.17
+REST API,SQL,21,0.17
+LLM,코드 리뷰,11,0.17
+데이터 품질,모니터링,12,0.169
+가상화,모니터링,11,0.169
+AWS S3,모니터링,12,0.169
+모니터링,쿼리 튜닝,9,0.169
+MSA,모니터링,12,0.169
+AI Agent,DB 설계,6,0.169
+DB 설계,Java,12,0.168
+AWS,Data Mart,7,0.168
+Docker,Kafka,11,0.168
+AWS,Ansible,7,0.168
+GCP,Terraform,7,0.167
+AWS,보안,36,0.167
+AI,Hive,7,0.167
+Kafka,SQL,12,0.166
+GCP,가상화,5,0.166
+GCP,SQL,13,0.165
+RDBMS,데이터 품질,8,0.164
+Data Lake,RDBMS,6,0.164
+RDBMS,컴퓨터 네트워크,6,0.164
+네트워크,정보처리기사,6,0.164
+AWS S3,RDBMS,8,0.164
+AI,Elasticsearch,6,0.164
+Git,GitHub,6,0.163
+GitHub,Kubernetes,6,0.163
+CI/CD,Spring Boot,12,0.162
+AWS,Shell Script,13,0.162
+AWS RDS,SQL,5,0.161
+AI,Hadoop,5,0.161
+Azure,온프레미스,5,0.161
+Grafana,PostgreSQL,5,0.161
+Docker,Python,24,0.161
+AI,Kotlin,5,0.161
+AWS EC2,SQL,5,0.161
+CI/CD,네트워크,22,0.16
+네트워크,모니터링,31,0.16
+MySQL,Redis,5,0.157
+Git,PostgreSQL,12,0.156
+Kubernetes,PostgreSQL,12,0.156
+AI 코딩 도구,PostgreSQL,8,0.156
+AI 코딩 도구,모니터링,18,0.155
+Docker,Spring,10,0.155
+Java,쿼리 튜닝,6,0.154
+LLM,모니터링,21,0.153
+CI/CD,NoSQL,5,0.153
+Kubernetes,네트워크,22,0.153
+모니터링,온프레미스,11,0.152
+네트워크,온프레미스,9,0.152
+AWS,Windows,10,0.152
+AI,보안,28,0.151
+Confluence,모니터링,6,0.151
+RAG,모니터링,9,0.15
+Git,RDBMS,18,0.15
+AI 코딩 도구,Spring,7,0.15
+단위 테스트,모니터링,8,0.149
+Iceberg,모니터링,7,0.149
+데이터 거버넌스,모니터링,7,0.149
+CI/CD,컴퓨터 네트워크,6,0.149
+Git,GitHub Actions,5,0.148
+JPA,Kubernetes,5,0.148
+Jira,LLM,5,0.148
+AWS S3,Spring Boot,5,0.148
+MSA,PostgreSQL,5,0.148
+AI,데이터 품질,10,0.148
+Kubernetes,NoSQL,5,0.148
+AWS S3,DB 설계,5,0.148
+Kubernetes,데이터 거버넌스,5,0.148
+AI Agent,CI/CD,9,0.148
+Jira,RDBMS,6,0.147
+Docker,Spring Boot,11,0.147
+Docker,Windows,6,0.147
+Docker,방화벽,5,0.146
+AWS,PostgreSQL,18,0.145
+Data Lake,Kubernetes,6,0.144
+Kafka,Spring,6,0.144
+MySQL,모니터링,14,0.144
+Kubernetes,컴퓨터 네트워크,6,0.144
+Hadoop,Python,5,0.143
+Docker,보안,21,0.143
+Kubernetes,Shell Script,8,0.142
+Git,Redis,9,0.142
+Linux,Prometheus,6,0.142
+AI,Iceberg,6,0.14
+AI,NoSQL,6,0.14
+REST API,웹 성능 최적화,6,0.139
+Azure,모니터링,16,0.138
+DB 설계,모니터링,16,0.138
+PostgreSQL,모니터링,16,0.138
+MySQL,REST API,10,0.138
+Java,Node.js,5,0.137
+AI 코딩 도구,Grafana,5,0.137
+Java,Jira,6,0.137
+Linux,보안,19,0.137
+DevOps,코드 리뷰,5,0.136
+Azure,Spark,5,0.136
+Java,Kubernetes,18,0.135
+AI,Python,30,0.135
+AI,Spring Boot,14,0.135
+AI,Data Mart,5,0.134
+AI,모니터링,32,0.134
+AI,Kafka/MQ,5,0.134
+AI,MLOps,5,0.134
+Docker,온프레미스,7,0.134
+AI 코딩 도구,CSS,6,0.133
+AI,Next.js,10,0.133
+CI/CD,Windows,6,0.132
+AWS EC2,네트워크,5,0.132
+CI/CD,Jira,6,0.132
+Docker,코드 리뷰,12,0.132
+CI/CD,PostgreSQL,11,0.129
+모니터링,컴퓨터 네트워크,8,0.129
+AI,TypeScript,13,0.128
+AWS,LLM,22,0.128
+AI,Kafka,13,0.128
+DevOps,Linux,6,0.128
+GCP,MySQL,6,0.128
+AI,Data Lake,7,0.127
+Kubernetes,방화벽,5,0.127
+PostgreSQL,Spring,6,0.127
+AI,웹 성능 최적화,7,0.127
+Docker,GitHub,5,0.127
+GitHub,RDBMS,5,0.127
+AI Agent,Docker,8,0.125
+AWS EC2,모니터링,6,0.125
+AI Agent,모니터링,12,0.125
+Elasticsearch,모니터링,6,0.125
+Airflow,PostgreSQL,5,0.124
+MSA,보안,9,0.124
+AI 코딩 도구,ETL/ELT,10,0.123
+Django,REST API,5,0.123
+Iceberg,Python,6,0.122
+Python,VMware,6,0.122
+AWS,네트워크,32,0.121
+SQL,Spring,10,0.121
+AWS,Linux,24,0.121
+MSA,RDBMS,7,0.12
+Data Warehouse,RDBMS,7,0.12
+Java,코드 리뷰,12,0.12
+Docker,LLM,13,0.12
+ETL/ELT,Oracle,6,0.119
+AWS,Databricks,6,0.119
+AI,Airflow,10,0.119
+Docker,REST API,17,0.118
+AWS,VMware,7,0.117
+ETL/ELT,RDBMS,14,0.117
+Linux,Python,20,0.116
+AWS EKS,네트워크,7,0.116
+CI/CD,Kafka,10,0.116
+AI,Kubernetes,22,0.116
+Airflow,Kubernetes,8,0.115
+가상화,보안,8,0.114
+CI/CD,단위 테스트,5,0.113
+AI 코딩 도구,DB 설계,7,0.113
+Git,Oracle,7,0.113
+React,Spring,7,0.113
+AI Agent,Spring Boot,5,0.113
+AI 코딩 도구,Next.js,5,0.113
+CI/CD,GitHub,5,0.113
+AI 코딩 도구,Spring Boot,7,0.113
+AI 코딩 도구,HTML,6,0.112
+단위 테스트,보안,6,0.11
+Jira,모니터링,8,0.11
+AWS S3,코드 리뷰,5,0.11
+MSA,코드 리뷰,5,0.11
+GCP,보안,13,0.11
+Data Lake,Docker,5,0.109
+Java,MSA,7,0.109
+AI,반응형 웹,7,0.109
+Linux,PostgreSQL,9,0.108
+PostgreSQL,TypeScript,6,0.108
+ArgoCD,Python,7,0.108
+Kafka,모니터링,14,0.107
+AI,DB 설계,13,0.106
+Git,MySQL,9,0.106
+GitHub,모니터링,7,0.106
+AI 코딩 도구,Python,15,0.106
+AI,PostgreSQL,13,0.106
+GCP,Redis,5,0.105
+Kafka,REST API,10,0.104
+AWS,MySQL,14,0.104
+Docker,GCP,10,0.103
+GCP,RDBMS,10,0.103
+AI,DevOps,8,0.102
+AI 코딩 도구,Airflow,5,0.101
+AI,SQL,22,0.101
+VMware,모니터링,6,0.101
+AWS,Airflow,12,0.1
+Python,방화벽,6,0.1
+Data Lake,Java,5,0.1
+AWS,MSA,11,0.099
+SQL,단위 테스트,5,0.099
+AWS S3,Kubernetes,7,0.099
+AWS S3,Git,7,0.099
+Docker,Git,16,0.099
+FastAPI,보안,5,0.098
+NoSQL,보안,5,0.098
+AI,단위 테스트,6,0.098
+AWS S3,네트워크,8,0.098
+REST API,Redis,8,0.097
+Python,백업·DR,8,0.097
+PostgreSQL,코드 리뷰,7,0.097
+MySQL,코드 리뷰,6,0.097
+Kafka,RDBMS,9,0.097
+Data Mart,모니터링,5,0.096
+GCP,네트워크,12,0.096
+MLOps,모니터링,5,0.096
+AI,Spark,9,0.096
+Java,Linux,14,0.096
+Kubernetes,Spring,9,0.095
+AWS,컴퓨터 네트워크,8,0.095
+AWS,쿼리 튜닝,8,0.095
+AI 코딩 도구,Kubernetes,11,0.094
+AWS,Windows Server,5,0.094
+AI,Git,21,0.094
+Docker,RAG,5,0.093
+AWS,REST API,27,0.093
+BigQuery,Python,5,0.091
+AI 코딩 도구,React,8,0.091
+PostgreSQL,보안,12,0.091
+Kubernetes,쿼리 튜닝,5,0.09
+AWS S3,Python,9,0.09
+Grafana,LLM,5,0.09
+DevOps,Java,6,0.09
+Kubernetes,Spark,7,0.086
+Data Lake,모니터링,7,0.086
+Docker,SQL,16,0.086
+Grafana,RDBMS,6,0.086
+REST API,컴퓨터 네트워크,5,0.086
+AI Agent,AWS,12,0.086
+AI,온프레미스,8,0.086
+AWS,SQL,27,0.085
+모니터링,스토리지,12,0.085
+AI 코딩 도구,Docker,10,0.085
+DevOps,네트워크,7,0.085
+AI,코드 리뷰,14,0.084
+Git,Linux,14,0.083
+AI Agent,보안,9,0.083
+AI Agent,RDBMS,7,0.082
+보안,스토리지,10,0.082
+MySQL,보안,10,0.082
+Python,가상화,8,0.082
+DevOps,Python,8,0.082
+AI,쿼리 튜닝,6,0.08
+CI/CD,RDBMS,15,0.08
+AI,RDBMS,19,0.08
+AWS,백업·DR,9,0.079
+Azure,SQL,10,0.078
+Data Warehouse,LLM,5,0.078
+AWS S3,LLM,5,0.078
+AWS,RDBMS,24,0.077
+AI,AWS,32,0.077
+DB 설계,Docker,9,0.077
+AI,Azure,12,0.077
+ETL/ELT,PostgreSQL,8,0.076
+AWS,RAG,8,0.076
+CI/CD,Python,21,0.074
+ETL/ELT,Terraform,7,0.073
+PostgreSQL,Terraform,5,0.073
+CI/CD,스토리지,8,0.073
+DB 설계,Spring,5,0.073
+Kubernetes,Windows,5,0.073
+AWS,단위 테스트,7,0.073
+AWS EKS,Python,7,0.072
+BigQuery,모니터링,5,0.072
+ETL/ELT,모니터링,19,0.072
+AI,AWS S3,8,0.072
+AI,Redis,9,0.07
+AWS,정보처리기사,6,0.07
+AWS,DB 설계,15,0.07
+NoSQL,Python,5,0.069
+Kafka,코드 리뷰,6,0.068
+Kubernetes,MySQL,8,0.068
+AWS EKS,Java,5,0.067
+AWS,Vector DB,5,0.067
+AWS,MLOps,5,0.067
+ETL/ELT,온프레미스,5,0.067
+RDBMS,모니터링,21,0.065
+ETL/ELT,Kubernetes,13,0.063
+Python,보안,25,0.063
+Prometheus,RDBMS,5,0.062
+AI,Windows,6,0.062
+AWS,가상화,9,0.062
+DB 설계,LLM,7,0.061
+AI 코딩 도구,보안,12,0.061
+AWS,Java,24,0.061
+Python,컴퓨터 네트워크,6,0.061
+SQL,모니터링,23,0.06
+CI/CD,DB 설계,9,0.06
+DB 설계,보안,11,0.06
+GCP,Linux,8,0.06
+RDBMS,TypeScript,8,0.059
+AI,Docker,18,0.058
+AWS EKS,Git,5,0.058
+AI,Spring,10,0.057
+AI,Terraform,10,0.057
+AWS EKS,보안,6,0.057
+Prometheus,Python,7,0.056
+Azure,Kafka,5,0.056
+AI 코딩 도구,REST API,10,0.056
+DB 설계,Python,12,0.054
+AWS S3,ETL/ELT,5,0.054
+Python,RDBMS,19,0.053
+Git,MSA,6,0.053
+ArgoCD,네트워크,5,0.052
+Redis,SQL,7,0.051
+AI Agent,SQL,7,0.051
+Java,Spark,6,0.05
+NoSQL,모니터링,5,0.049
+Python,Redis,9,0.049
+Airflow,RDBMS,6,0.048
+Linux,MSA,5,0.048
+Java,Kafka,8,0.048
+AWS,Django,6,0.048
+AWS S3,REST API,6,0.048
+MSA,REST API,6,0.048
+AI,GitHub,5,0.047
+AWS,스토리지,12,0.047
+GCP,모니터링,13,0.046
+AI,Grafana,7,0.045
+Redis,보안,8,0.045
+AI,Oracle,7,0.045
+Kafka,Python,11,0.045
+AWS S3,보안,7,0.044
+AI,REST API,19,0.044
+AWS,BigQuery,5,0.042
+AWS,코드 리뷰,16,0.042
+CI/CD,Java,14,0.041
+CI/CD,LLM,11,0.041
+Data Lake,보안,5,0.04
+Azure,RDBMS,8,0.04
+Azure,Docker,8,0.04
+보안,컴퓨터 네트워크,5,0.04
+AI 코딩 도구,Java,9,0.038
+AI,GCP,11,0.036
+Docker,Oracle,5,0.035
+CI/CD,가상화,5,0.034
+AI,스토리지,9,0.034
+SQL,코드 리뷰,10,0.033
+모니터링,코드 리뷰,14,0.033
+AWS,데이터 품질,9,0.032
+Linux,MySQL,6,0.032
+AWS,Data Warehouse,9,0.032
+Java,React,10,0.031
+GCP,PostgreSQL,5,0.031
+DB 설계,GCP,5,0.031
+AI,백업·DR,6,0.03
+AI,Prometheus,6,0.03
+GitHub,Python,5,0.029
+LLM,보안,13,0.028
+Java,Terraform,7,0.028
+Spring Boot,보안,10,0.028
+CI/CD,Git,14,0.028
+AWS,ETL/ELT,19,0.026
+Grafana,Python,7,0.026
+AI Agent,Java,6,0.026
+Grafana,Java,5,0.025
+AI,Linux,15,0.024
+Jira,보안,5,0.023
+CI/CD,REST API,14,0.022
+Linux,Spring,6,0.022
+Kubernetes,RDBMS,13,0.021
+AI,Java,17,0.02
+AWS,Iceberg,5,0.019
+Airflow,보안,7,0.018
+AWS,Spark,9,0.017
+Git,Grafana,5,0.016
+AI 코딩 도구,SQL,9,0.016
+CI/CD,SQL,14,0.015
+Python,스토리지,9,0.013
+AI Agent,REST API,6,0.012
+AI,Jira,5,0.012
+MSA,네트워크,6,0.012
+SQL,온프레미스,5,0.007
+Java,JavaScript,6,0.005
+Python,네트워크,21,0.005
+Docker,스토리지,6,0.005
+GCP,REST API,8,0.004
+Oracle,모니터링,7,0.004
+RDBMS,보안,15,0.003
+LLM,Spring,5,0.003
+데이터 품질,보안,6,0.0
+Airflow,Docker,5,-0.001
+AWS,Node.js,5,-0.001
+Docker,ETL/ELT,10,-0.002
+Java,Python,17,-0.005
+MSA,SQL,5,-0.006
+SQL,Shell Script,5,-0.006
+LLM,SQL,10,-0.007
+Azure,ETL/ELT,6,-0.008
+Linux,RDBMS,10,-0.008
+AI,CI/CD,16,-0.009
+AI,MSA,6,-0.012
+Spark,보안,6,-0.013
+SQL,보안,16,-0.013
+AWS,Git,21,-0.013
+AI 코딩 도구,AWS,13,-0.014
+Java,LLM,9,-0.017
+Oracle,Python,6,-0.017
+ETL/ELT,GCP,6,-0.017
+보안,코드 리뷰,10,-0.018
+React,Spring Boot,5,-0.019
+GCP,Java,7,-0.019
+AWS,GitHub,5,-0.02
+Kubernetes,Spring Boot,7,-0.021
+MySQL,Python,8,-0.022
+Spark,모니터링,7,-0.023
+Redis,네트워크,6,-0.024
+AWS,Spring,10,-0.025
+PostgreSQL,네트워크,8,-0.026
+AI,React,11,-0.026
+Spring Boot,모니터링,10,-0.031
+LLM,Spring Boot,5,-0.032
+AI,가상화,5,-0.032
+Java,모니터링,17,-0.034
+LLM,REST API,9,-0.034
+SQL,Terraform,6,-0.035
+AI 코딩 도구,Linux,6,-0.038
+Spring,보안,7,-0.038
+GCP,LLM,5,-0.039
+AI,MySQL,7,-0.04
+AI,HTML,7,-0.04
+AI 코딩 도구,CI/CD,7,-0.041
+Linux,SQL,10,-0.043
+Git,Kafka,6,-0.044
+LLM,React,6,-0.044
+ETL/ELT,Java,9,-0.045
+Git,모니터링,17,-0.048
+Data Warehouse,모니터링,6,-0.051
+RDBMS,Terraform,5,-0.052
+MySQL,네트워크,6,-0.056
+Kafka,보안,7,-0.057
+AI,Data Warehouse,5,-0.058
+AI,CSS,6,-0.059
+Java,보안,13,-0.059
+JavaScript,SQL,5,-0.061
+Git,LLM,8,-0.062
+CI/CD,Spring,5,-0.067
+AI,JavaScript,6,-0.07
+GCP,Git,6,-0.07
+AI,IaC,5,-0.07
+TypeScript,모니터링,8,-0.076
+MSA,Python,5,-0.076
+RDBMS,네트워크,11,-0.083
+LLM,Linux,6,-0.088
+JavaScript,Python,6,-0.088
+Spring,모니터링,7,-0.091
+AI,네트워크,15,-0.093
+AWS,Next.js,6,-0.095
+Git,보안,12,-0.096
+Azure,Java,5,-0.097
+Kubernetes,SQL,10,-0.098
+Kubernetes,코드 리뷰,6,-0.101
+Linux,REST API,8,-0.101
+RDBMS,React,6,-0.102
+Python,Spring Boot,7,-0.107
+Spring,네트워크,5,-0.11
+ETL/ELT,보안,9,-0.116
+CI/CD,React,6,-0.117
+Kafka,네트워크,5,-0.128
+React,SQL,6,-0.132
+Python,REST API,12,-0.139
+TypeScript,보안,5,-0.14
+REST API,모니터링,13,-0.142
+Docker,React,5,-0.145
+DB 설계,네트워크,5,-0.145
+SQL,네트워크,10,-0.145
+REST API,보안,10,-0.154
+ETL/ELT,Linux,5,-0.155
+Git,Python,11,-0.158
+Python,TypeScript,5,-0.168
+AI 코딩 도구,네트워크,5,-0.168
+React,보안,6,-0.175
+AWS,TypeScript,6,-0.179
+Git,Kubernetes,7,-0.179
+Java,네트워크,8,-0.18
+AWS,JavaScript,5,-0.181
+Python,코드 리뷰,6,-0.184
+AWS,React,8,-0.194
+CI/CD,ETL/ELT,5,-0.195
+Python,React,6,-0.205
+LLM,네트워크,5,-0.215
+Kubernetes,REST API,6,-0.219
+React,모니터링,6,-0.226
+REST API,네트워크,7,-0.227
+Git,네트워크,6,-0.254

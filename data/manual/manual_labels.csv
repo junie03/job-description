@@ -1,0 +1,41 @@
+id,title,decision,reason
+55600106,개발자 신입 채용,exclude,C/C++ 제품 코어 모듈·데몬과 네트워크 패킷 필터링 개발 → 시스템 SW(대상 직군 아님)
+55600104,개발자 채용,exclude,C/C++ 제품 코어 모듈·데몬과 네트워크 패킷 필터링 개발 → 시스템 SW(대상 직군 아님)
+55563453,IT개발팀 리더 (7년 이상),exclude,로봇 통합 관제·MLOps 플랫폼 개발 리딩 → 로봇 도메인 개발 리더(한 직군으로 볼 수 없음)
+55531764,핀다뱅크[대원저축] 제품 엔지니어,backend,금융 계좌 시스템 백엔드 아키텍처·API 개발; Java/Spring Boot·RDBMS 요구
+55522852,토큰허브팀_소프트웨어 엔지니어,backend,LLM 게이트웨이 API 서버 설계·운영; 백엔드 경력 3년·Python FastAPI·PostgreSQL·Redis 요구
+55522593,뎁스팀_소프트웨어 엔지니어,boundary,NestJS 백엔드와 React·Next.js 프론트엔드를 아우르는 풀스택 역량 명시
+55521428,MLOps Engineer (Junior),exclude,AI 피부분석 모델 서빙·배포 자동화 → MLOps(대상 직군 아님)
+55506536,쇼핑몰/헬스케어 서비스 개발자,boundary,주요업무에 백엔드·프론트엔드 개발을 함께 명시(PHP·JavaScript·Java)
+55450558,시스템 사업부 엔지니어 신입,infra,NetApp 스토리지·서버 설치·장애처리·가상화·클라우드 지원 → 인프라 운영
+55465956,소프트 웨어팀 직원모집,exclude,제품 소프트웨어·펌웨어 설계와 스마트폰 앱 개발 → 임베디드/모바일
+55435215,시스템 개발자 채용,exclude,Modern C++/Go 기반 Linux 보안 통신·시스템 프로그래밍 → 시스템·보안 SW
+55425434,SM/SI 개발,backend,Java 백엔드 개발·DB 설계; Spring Boot 3·JUnit5 TDD 요구
+55376232,자사 HR Platform 서비스 개발팀장,backend,백엔드 개발 경력 5~10년·Java/Spring Boot·AWS 설계; 백엔드 기술 리더
+55559330,WorkManagement사업부문 솔루션 개발,boundary,React 프론트엔드와 Node.js/Java 개발을 함께 요구하는 웹 애플리케이션 개발
+55466153,"IT 운영 담당자(신입가능,일반계약직)",exclude,PC·프린터 등 IT 자산 관리와 사용자 지원 → 헬프데스크(인프라 엔지니어링 아님)
+55617446,S/W 소프트웨어 설계 (경력),exclude,ARM/DSP/MCU 탑재 응용 SW → 임베디드
+55626032,[본사]응용SW개발(C++ C#) 경력무관,exclude,Windows 응용 SW·WPF GUI·시뮬레이터 개발 → 데스크톱 응용 SW
+55558168,ML Systems Runtime Engineer [신입/병특],exclude,NPU 런타임·드라이버 개발 → 시스템 SW/AI 반도체
+55558163,ML Systems Runtime Engineer [경력],exclude,NPU 런타임·드라이버 개발 → 시스템 SW/AI 반도체
+55508064,시스템개발팀 경력 모집,exclude,통신 중계 장치·RF 모듈 설계 → 하드웨어
+55455522,시스템 소프트웨어 엔지니어,exclude,비전·로봇 설비 제어 응용 SW와 장비 통신 → 설비 제어 SW
+55455396,[청주] 어플리케이션 소프트웨어 엔지니어,exclude,3D 비전 검사 SW·장비 연동 → 비전 SW
+55440697,Windows Application 개발자 (C/C++),exclude,C/C++ Windows 전자차트 앱·장비 연동 → 데스크톱 응용 SW
+55400904,연구개발본부 SW1팀 경력사원 채용,exclude,2차전지 충방전 검사장비 제어 프로그램 → 장비 제어 SW
+55387717,System Module Engineer,exclude,제약 연구 장비 데이터·LIMS·자동화 모듈 운영체제 → 도메인 솔루션(직군 불명확)
+55605552,Edge AI 최적화 엔지니어(모빌리티),exclude,CUDA·TensorRT 기반 엣지 AI 모델 최적화 → AI
+55541377,해양사업부 부산연구소 SW 개발자(CL4) [경력 16~20년],exclude,Android/Kotlin 해상 항법 장비 SW → 모바일·임베디드
+55536982,해양사업부 부산연구소 SW 개발자(CL4) [경력 10~15년],exclude,Android/Kotlin 해상 항법 장비 SW → 모바일·임베디드
+55506975,Software Engineer,data_eng,대규모 데이터 수집·정제·적재 시스템과 분산 데이터 파이프라인 개발(Kafka·Hadoop·Elasticsearch)
+55436205,데이터 모델 및 분석 담당자 모집,data_eng,데이터 모델 설계와 데이터 파이프라인 구축·운영이 주요업무
+55640130,[Tech] 데이터플랫폼 엔지니어(TA),infra,Kubernetes 기반 데이터플랫폼 인프라·분산 스토리지·가상화 설계/구축 → 인프라 구축 업무
+55547446,그룹사 유통시스템 운영/개발,boundary,Java·Spring Boot·JSP 백엔드와 React·TypeScript 프론트엔드를 함께 요구하는 웹 운영/개발
+55547610,그룹사 이커머스 시스템 운영/개발,backend,Java·Spring Boot·MyBatis·Oracle 기반 이커머스 웹 서버 운영/개발
+55394660,그룹사 SAP 시스템 운영(SD 또는 MM 모듈),exclude,SAP ERP 모듈 운영 → ERP 컨설팅·운영(대상 직군 아님)
+55485320,AI 서비스 백엔드 개발자(경력),exclude,디지털트윈·가상훈련 AI 서비스 개발(자연어·음성·영상·LLM)이 중심 → AI 서비스 개발
+55440033,온톨로지·Knowledge Graph 플랫폼 개발팀장,exclude,온톨로지·지식그래프 데이터 모델·추론 기술 개발 리딩 → AI/지식그래프(대상 직군 아님)
+55633467,[ICT 통합서비스대기업] 동남아 IT인프라 영업 및 사업개발,exclude,해외 IT 인프라 영업·사업개발 → 영업
+55632799,[신입/경력] 시스템운영/공공사업PM/공공사업관리/AI엔지니어/경영전략/마케팅,exclude,여러 직무를 한 공고로 모집 → 한 직군으로 볼 수 없음
+55620200,전산 인프라 담당 (사원-주임급) 채용,exclude,PC·POS 단말기·OA 관리와 ERP 지원 → 사내 전산 헬프데스크
+55616603,사내 IT 인프라 및 총무업무 관리 경력직 직원 채용 (계약직),exclude,사내 IT 시스템 외주 관리 70%·총무 30% → 전산·총무
